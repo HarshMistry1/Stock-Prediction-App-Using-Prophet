@@ -8,7 +8,7 @@ This project follows by a data visualization and forecasting using Prophet and f
 
 - 1 : Open up a directory and create a virtual environment `python -m venv 'name-of-vir-env'`
 - 2 : Activate the environment by `.\'name-of-vir-env'\Scripts\activate'`.
-- 3 : Now, install the packages `pip insatll fbprophet streamlit plotly yfinance`.
+- 3 : Now, install the packages `pip insatll -r requirements.txt`.
 
 ## Usage
 *Make sure you should be in virtual environment before you run it.*
